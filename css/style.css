@@ -1,0 +1,11 @@
+img {
+	display: none;
+}
+
+canvas {
+	position: relative;
+	left: 50%;
+	margin-left: -400px;
+	height: 600px;
+	width: 800px;
+}
